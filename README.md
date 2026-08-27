@@ -1,74 +1,74 @@
 # Hi, I'm Afhamur Rahman 👋
 
-### VLSI | RTL Design | FPGA
+### VLSI Design | RTL | FPGA Systems
 
-I am focused on **digital VLSI design and hardware development**, with hands-on work in Verilog RTL, processor design, FPGA-based systems, and RTL verification.
+I am an Electronics and Communication Engineering student focused on **digital VLSI design, RTL development, processor microarchitecture, and FPGA-based systems**.
 
-I enjoy understanding a hardware problem from the architecture level down to RTL, then verifying the design through simulation and waveforms.
+My approach is simple: understand the architecture, write clean synthesizable RTL, verify the behavior with focused testbenches, and document the design flow clearly.
 
 ---
 
 ## 🔧 What I Work On
 
-- **RTL Design:** Verilog, SystemVerilog, synthesizable RTL
-- **Processor Design:** RV32I RISC-V, pipelining, hazards and forwarding
-- **FPGA / SoC:** Zynq-7000, AXI, AXI4-Stream, AXI VDMA
-- **Verification:** Testbenches, simulation, waveform-based debugging
-- **VLSI Flow:** RTL → Synthesis → STA → Physical Design fundamentals
-- **Open Source:** VLSI/RTL/FPGA bug investigation and upstream contributions
+- **RTL Design:** Verilog HDL, synthesizable modular design, FSMs, datapaths
+- **Processor Design:** RV32I RISC-V, 5-stage pipelining, control and memory interfaces
+- **FPGA / SoC:** Zynq-7000, AXI4, AXI4-Stream, AXI VDMA, DDR and VGA systems
+- **Verification:** RTL testbenches, simulation, waveform-based debugging
+- **VLSI Flow:** RTL → synthesis → timing analysis → physical-design fundamentals
+- **Open Source:** Practical RTL/FPGA/HLS issue investigation and upstream contributions
 
 ---
 
 ## 🚀 Featured Projects
 
-### 32-bit RV32I Pipelined RISC-V Processor
+### [32-bit RV32I Pipelined RISC-V Processor](https://github.com/GITTYCAT12/rv32i-riscv-processor-verilog)
 
-A 5-stage pipelined RV32I processor implemented in Verilog with instruction/data paths, control logic, pipeline registers, forwarding and hazard handling.
+A modular **32-bit RV32I processor in Verilog HDL** with a classic **IF → ID → EX → MEM → WB** pipeline, dedicated control/datapath blocks, instruction/data memory models, and module-level verification.
 
-**Focus:** RTL architecture • Pipelining • Hazard Detection • Forwarding • Verification
+**Focus:** RTL architecture • Pipelining • Control Logic • Memory Operations • Simulation
 
-[View Project](https://github.com/GITTYCAT12/rv32i-riscv-processor-verilog)
+### [Zynq-7000 Video Interfacing using AXI VDMA](https://github.com/GITTYCAT12/zynq-vdma-vga)
 
-### Zynq-7000 Video Interfacing — AXI VDMA & VGA
+A hardware/software video pipeline using the **Zynq-7000 processing system, AXI VDMA, DDR frame buffering, VTC, AXI4-Stream video, and VGA output**.
 
-FPGA/SoC video pipeline using the Zynq-7000 processing system, AXI infrastructure, AXI VDMA, DDR frame buffering and VGA/video timing concepts.
+**Focus:** FPGA/SoC Integration • AXI • DMA • DDR • Video Timing • Embedded Hardware/Software
 
-**Focus:** Zynq-7000 • AXI • VDMA • DDR • VGA • VTC • FPGA system design
+### [hls4ml Contribution Workspace](https://github.com/GITTYCAT12/hls4ml)
 
-[View Project](https://github.com/GITTYCAT12/zynq-vdma-vga)
+A fork used to study and contribute to an open-source HLS-to-hardware toolchain, with emphasis on reproducible issues, targeted fixes, regression coverage, and clear engineering documentation.
 
 ---
 
 ## 🧪 Currently Learning & Building
 
-- RTL → GDSII design flow
-- Static Timing Analysis and timing closure concepts
-- Advanced RTL verification
-- FPGA/ASIC implementation fundamentals
-- Open-source EDA and hardware projects
+- RTL-to-GDSII design flow
+- Static Timing Analysis and timing-closure concepts
+- Synthesis constraints and reporting
+- Advanced RTL verification and regression testing
+- Open-source EDA and hardware-development workflows
 
 ---
 
-## 🤝 Open-Source VLSI Contributions
+## 🤝 Engineering Principles
 
-I am building my open-source contribution record around **real hardware problems** — reproducing bugs, understanding the RTL/HLS/EDA root cause, implementing targeted fixes, adding regression coverage, and contributing upstream.
-
-**Contribution focus:** RTL • Verilog/SystemVerilog • FPGA • ASIC • HLS • Synthesis • Verification • EDA
-
-> I prefer meaningful engineering contributions over activity created only for the sake of GitHub statistics.
+- Prefer **reproducible bugs and measurable fixes** over cosmetic activity
+- Keep project scope and claims aligned with the current implementation
+- Document architecture, assumptions, simulation steps, and known limitations
+- Treat GitHub as an engineering portfolio, not a commit counter
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-`Verilog` `SystemVerilog` `RISC-V` `Vivado` `Icarus Verilog` `GTKWave` `Git` `GitHub` `Zynq-7000` `AXI` `AXI VDMA` `VGA`
+`Verilog HDL` `SystemVerilog` `RISC-V RV32I` `Vivado` `Icarus Verilog` `GTKWave` `Zynq-7000` `AXI4` `AXI4-Stream` `AXI VDMA` `VGA` `Git` `GitHub`
 
 ---
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/)
-- [GitHub](https://github.com/GITTYCAT12)
+- Email: [afhamurrahman@gmail.com](mailto:afhamurrahman@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/)
+- GitHub: [GITTYCAT12](https://github.com/GITTYCAT12)
 
 ---
 
