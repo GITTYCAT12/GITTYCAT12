@@ -1,8 +1,8 @@
 # Hi, I'm Afhamur Rahman 👋
 
-### VLSI Design | RTL | FPGA Systems
+### Physical Design | RTL | FPGA Systems
 
-I am an Electronics and Communication Engineering student focused on **digital VLSI design, RTL development, processor microarchitecture, and FPGA-based systems**.
+I am an Electronics and Communication Engineering student focused on **digital VLSI design, Physical design, RTL development, processor microarchitecture, and FPGA-based systems**.
 
 My approach is simple: understand the architecture, write clean synthesizable RTL, verify the behavior with focused testbenches, and document the design flow clearly.
 
